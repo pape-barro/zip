@@ -22,4 +22,4 @@
  1. [`Introduction aux systèmes embarqués`](https://github.com/pape-barro/zip/blob/main/Introduction_aux_systemes_embarques.pdf) - ``` 09 Mai 2022 ``` ;
  2. [`Architecture et familles de microcontroleur`](https://github.com/pape-barro/zip/blob/main/Architecture_et_familles_de_microcontroleur.pdf) - ``` 16 Mai 2022 ``` ;
  3. [`Capteurs, actuateurs et programmation des microcontroleurs`](https://github.com/pape-barro/zip/blob/main/Capteurs__actuateurs_et_Programmation_des_microcontroleurs.pdf) - ``` 23 Mai 2022 ``` ;
- 4. [`Elements de machine - Connaissances de base`];
+ 4. [`Cas pratiques`];
